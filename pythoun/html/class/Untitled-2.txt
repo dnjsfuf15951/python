@@ -1,0 +1,6 @@
+with open(D:\PYTHON MENU\Excel\\singer.csv") as f:
+s = f.readlines()
+prunt(s, end="")
+
+#s= f.readlines()
+#print(s, end="")
